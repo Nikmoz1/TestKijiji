@@ -2,6 +2,7 @@
 Щоб запустити парсер
 
 docker-compose up --build
+
 Переглянути адмінку
 
 http://localhost:8080/
